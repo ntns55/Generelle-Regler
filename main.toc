@@ -36,10 +36,10 @@
 \contentsline {section}{Grønhuder}{24}{figure.caption.11}%
 \contentsline {chapter}{Professioner}{28}{chapter*.12}%
 \contentsline {section}{Generelt}{28}{section*.13}%
-\contentsline {section}{Erfaringspoint}{32}{table.caption.14}%
-\contentsline {subsection}{At få nye evner}{32}{section*.15}%
-\contentsline {section}{Generelt om evner}{32}{section*.15}%
-\contentsline {section}{Multiclassing}{33}{section*.15}%
-\contentsline {subsection}{Begrænsninger på professioner}{33}{section*.16}%
-\contentsline {subsection}{XP Pris}{33}{section*.16}%
-\contentsline {chapter}{Efterskrift}{34}{chapter*.17}%
+\contentsline {section}{Erfaringspoint}{32}{table.caption.15}%
+\contentsline {subsection}{At få nye evner}{32}{section*.16}%
+\contentsline {section}{Generelt om evner}{32}{section*.16}%
+\contentsline {section}{Multiclassing}{33}{section*.16}%
+\contentsline {subsection}{Begrænsninger på professioner}{33}{section*.17}%
+\contentsline {subsection}{XP Pris}{33}{section*.17}%
+\contentsline {chapter}{Efterskrift}{34}{chapter*.18}%
