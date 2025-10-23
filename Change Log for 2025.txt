@@ -1,0 +1,35 @@
+Generelle Ændringer:
+
+Begrænsning på hvor mange midlertidige LP man kan få.
+Fjernet at man kan blive påvirket af kun en positiv magi og drik. Man kan nu blive påvirket af så mange effekter man vil, men ikke den samme effekt flere gange.
+Fjernet styrke for at låse låse op.
+Tilføjet 3 nye professsioner (Magus, Politiker, Tempelkriger) og 1 gammel profession (Barde)
+Givet Mennesker, Gobliner, og halvlange 1 ekstra start LP. 
+
+Alkymist:
+
+Barde:
+
+Druide:
+
+Handelsmand:
+
+Helbreder:
+
+Kriger:
+
+Magus:
+
+Politikeren:
+
+Præst:
+
+Shaman:
+
+Smed:
+
+Tempelkriger:
+
+Troldmand:
+
+Tyv:
