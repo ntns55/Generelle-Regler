@@ -1,35 +1,126 @@
 Generelle Ændringer:
 
 Begrænsning på hvor mange midlertidige LP man kan få.
+Alle kan nu bruge alle våben (med undtagelse af troldmanden), og alle typer rustning. Maks rustning er nu bestemt af din profession.
 Fjernet at man kan blive påvirket af kun en positiv magi og drik. Man kan nu blive påvirket af så mange effekter man vil, men ikke den samme effekt flere gange.
 Fjernet styrke for at låse låse op.
 Tilføjet 3 nye professsioner (Magus, Politiker, Tempelkriger) og 1 gammel profession (Barde)
+Skovfogeden er fjernet.
 Givet Mennesker, Gobliner, og halvlange 1 ekstra start LP. 
+Minearbejder og Urtesamler gør nu at man skal flytte færrer sække.
 
 Alkymist:
 
 Barde:
+Barden er blevet genskabt og har fået en make-over. 
+Indgyd Ærlighed tilføjet.
+Indgyd Hovmod tilføjet.
+Band tilføjet.
+Indgyd Kærlighed tilføjet.
+De 2 niveau 4 stier er slået sammen.
+Indgyd Had tilføjet.
+Indgyd Løstløgn tilføjet.
 
 Druide:
 
 Handelsmand:
 
 Helbreder:
+I niveau 4 er de to stier lagt sammen til en samlet sti.
+Kirurg nedsætter ikke længere hvor lang tid det tager for at folk er kampklar igen.
+Genoptræning fjernet.
+Guided helbredelse har fået flere restriktioner.
 
 Kriger:
 
 Magus:
+Denne profession blev skabt som en mellemgrund mellem Kriger og Troldmand. Vi har fået meget feedback på at Troldmanden er meget kompleks og kunne godt bruge en mellemgrund. Vi har derfor lavet Magussen, som en kompetent magikaster som krigere kan multi-classe til.
+Har man fået lov til at multiclasse fra Kriger til Troldmand vil man i stedet være godkendt til multiclassing fra Kriger til Magus.
 
 Politikeren:
+Vi har i A'kastin altid gået meget op i Faktions spil. Det vil sige at folk kan komme ud og forvente at være en del af en gruppe. Det har dog altid været Shamanen som har været den primære profession som har fået bonuser fra at være blandt flere folk. Dette vil vi gerne lave om på.
+Politikeren er designet til at være "Den tredje Multiclass profession". Intentionen er at denne profession styrker dem omkring sig, og kan interagere med verden på en nemmere måde, samtidig med at den sluger XP til dem der har det i overskud. 
+Professionen generelt modtager gratis Brug af Pistol (uden special ansøgning) som det eneste offensive, men promovere i stedet rollespil og snak med arrangørerne. 
 
 Præst:
+Krigspræst fjernet. Spillede man krigspræst kan man i stedet spille Tempelkriger.
+Mana regenerering sat tilbage for at være på niveau med andre professioner.
+Ekstra LP Niv. 1 Fjernet.
+Sande Troende Niv. 1 Tilføjet.
+Ekstra LP Niv. 2 Fjernet.
+Ekstra NK Niv. 2 flyttet til niveau 3.
+Sande Troende Niv. 2 Tilføjet.
+Gudens Lovpris Fjernet.
+
+	Esselaia:
+	Nedsat mængden der kan helbredes, men lagt sammen med Indre Fred. 
+	Ny sti tilføjet Elementernes Beskyttelse, en stærkere version af Stenform men over flere niveauer. 
+	Monisme omskrevet til at fokusere mere på to folk der bliver bundet sammen. 
+	Fjernet at Esselaia præsten ikke må bære våben.
+
+	Ewen:
+	Helbredelse fjernet.
+	Ny sti: Magiens sfære der kan beskytte præsten bedre mod magier, duplikere effekter og ophæve magier.
+	Magiens Mester har fået nedsat hvor mange magier den giver og især hvor mange niveau 3 og 2 den giver.
+
+	Ishtar:
+	Hvid magi ændret til at give effekter som er lagt på smykker. Disse effekter kan skiftes fra spilgang til spilgang, hvilket giver meget versitilitet til gengæld er kilden blevet meget mindre, samt lang bøn for at kaste disse magier.
+	Fjernet at Ishtar præsten mister Mana når de prædiker for andre ilshere.
+
+	Kelllwan:
+	Helbredelse: Nedsat hvor meget helbredelse der kan gives.
+	Gudens Retfærdighed kan nu altid bruges uden for helliggrunden.
+	Kelllwans Kampånd giver nu mindre liv.
+	
+	Morwen:
+	Den sande Død ændret til Tidens Nål.
+	Dødens Tjener ændret til Skater og Død.
+	
+	Orlek:
+	Blodrus kan nu ikke længere bruges på præsten.
+	Blodrus får nu målet til at gå amok.
+	Blodrus påvirker nu færer mål.
+	Blodrus stopper nu kun når folk dør.
+	Livets ritual giver nu mindre Mana tilbage.
+	Orleks Vrede giver nu præsten +36 NK og Orleks næve i niveau 4. 
+	Orleks næve lavet om til at fjerne barrier og låse. 
+	
+	Raffael Moordet:
+	Dæmon blod giver nu også immunitet overfor sandheds effekter.
+	Dæmonernes Hjælp har nu Dæmonisk Hersker i stedet for bundet Sjæl niveau 4.
+	Dæmonernes Hjælp: Villigt sind. Effekter fra dæmonerne er nu ændret for at undgå loop der gav uendelig liv, som demonstreret.
+	Dæmonernes Hjælp: Åbent Sind. Tilføjet Lysets Dæmon på dette niveau.
+	Dæmonernes Redskab: Tilføjet Bundet Sjæl og Bundet Dæmon i niveau 1 og 2. 
 
 Shaman:
 
 Smed:
+Fjernet Brug af Tårnskjold. Dette er nu noget alle kan bruge fra starten.
+Tid for at lave Låse er sat ned.
+For at reparere rustning skal alt rustning nu af.
+Mineral Kundskab fjernet.
+Sjakbajs fjernet.
+Tilføjet Ekstra LP Niv. 1
+Torturens vidunder er fjernet.
+Metalets Kald tilføjet.
+Låse Mekaniker fjernet.
+Titan Smed tilføjet.
+Pris for Sulfur stemmer nu overens med Alkymistens pris.
+Runesmedning kræver nu Mitril for at omsmede runer.
+Krigshærens rustning ændret til at interagere med krigerens rustning.
+Dragens rustning er fjernet. Har man dragens rustning vil man få de brugte runer tilbage.
 
 Tempelkriger:
+Denne profession er skabt på baggrund af Krigspræsten som ikke fungerede optimalt. Underskabelse af en seperat profession blev det tydeligt at den ville have en del overlap med Skovfogeden. Derfor blev de lagt sammen.
+Spiller man skovfoged, eller har man adgang til kriger evnen Tempelkriger, kan man flytte alt sin XP over i professionen: Tempelkriger.
 
 Troldmand:
 
 Tyv:
+Der er blevet sat fokus på at skabe en ny unik sti i tyven. Dette er Tortur.
+Torturens Vidunder flyttet til niveau 1.
+Længden af tid Dirke låse skal bruge sat ned.
+Torturens Hævn tilføjet.
+Smidighed gjort til færrer minutter.
+Magisk Tortur tilføjet.
+Torturens Snigende Mord tilføjet til Snigmorder stien.
