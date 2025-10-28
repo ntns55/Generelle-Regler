@@ -8,8 +8,17 @@ Tilføjet 3 nye professsioner (Magus, Politiker, Tempelkriger) og 1 gammel profe
 Skovfogeden er fjernet.
 Givet Mennesker, Gobliner, og halvlange 1 ekstra start LP. 
 Minearbejder og Urtesamler gør nu at man skal flytte færrer sække.
+Hvis man har 10 NK får man automatisk Bær Person.
 
 Alkymist:
+Naturbryg og Nervegift hver time i stedt for hvert andet
+Drømmeløshvile ændret fra 10 min til 5min
+Stenhud blodbær i stedet for blod
+Urteudvalg ændret til urte ekspert se besked over
+Splittet sti er nu slået sammen.
+Jernhud blodbær i stedt for blod
+Fjernet Mirakel Mix
+Fjernet Mana Mikstur
 
 Barde:
 Barden er blevet genskabt og har fået en make-over. 

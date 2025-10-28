@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  4 OCT 2025 23:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  28 OCT 2025 20:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1312,7 +1312,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 75--81
+Underfull \hbox (badness 10000) in paragraph at lines 76--82
 
  []
 
@@ -1321,97 +1321,97 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--81
 [10]
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 []|\T1/pplx/m/n/10.95 Hvornår
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 \T1/pplx/m/n/10.95 du har gjort
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 117--117
+Underfull \hbox (badness 3291) in paragraph at lines 118--118
 \T1/pplx/m/n/10.95 op-mærk-som på,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 \T1/pplx/m/n/10.95 ka-rak-ter dra-bet
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 117--117
+Underfull \hbox (badness 2326) in paragraph at lines 118--118
 \T1/pplx/m/n/10.95 , så rå-d-før dig
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\T1/pplx/m/n/10.95 Hvad skal
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 119--119
+Underfull \hbox (badness 4120) in paragraph at lines 120--120
 []|\T1/pplx/m/n/10.95 Du skal lig-ge "be-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []\T1/pplx/m/n/10.95 Helbredes af
  []
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 123--124
+Underfull \hbox (badness 5217) in paragraph at lines 124--125
 []\T1/pplx/m/n/10.95 Du har lig-get
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 123--124
+Underfull \hbox (badness 1320) in paragraph at lines 124--125
 \T1/pplx/m/n/10.95 ale-ne i 10 mi-
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 124--124
+Underfull \hbox (badness 2221) in paragraph at lines 125--125
 []|\T1/pplx/m/n/10.95 Din ka-rak-ter er
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
-[]\T1/pplx/m/n/10.95 Helbredende
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 130--131
-[]\T1/pplx/m/n/10.95 Helbredere og
+[]\T1/pplx/m/n/10.95 Helbredende
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-[]\T1/pplx/m/n/10.95 Helbredende
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+[]\T1/pplx/m/n/10.95 Helbredere og
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]\T1/pplx/m/n/10.95 Helbredende
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 []\T1/pplx/m/n/10.95 Helbredere og
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 137--137
+Underfull \hbox (badness 6792) in paragraph at lines 138--138
 \T1/pplx/m/n/10.95 lig-he-der for at
  []
 
 
-Overfull \hbox (3.81905pt too wide) in paragraph at lines 139--139
+Overfull \hbox (3.81905pt too wide) in paragraph at lines 140--140
 []|\T1/pplx/m/n/10.95 Konsekvenser| 
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 139--139
+Underfull \hbox (badness 2799) in paragraph at lines 140--140
 \T1/pplx/m/n/10.95 ik-ke hu-ske de sid-
  []
 
 
-Underfull \hbox (badness 1184) in paragraph at lines 139--139
+Underfull \hbox (badness 1184) in paragraph at lines 140--140
 \T1/pplx/m/n/10.95 ste 10 min., før du
  []
 
@@ -1424,12 +1424,12 @@ Underfull \hbox (badness 1184) in paragraph at lines 139--139
 [14]
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 184--191
+Underfull \hbox (badness 10000) in paragraph at lines 185--192
 
  []
 
 ) (mainstuff/Race.tex
-Underfull \hbox (badness 10000) in paragraph at lines 193--1
+Underfull \hbox (badness 10000) in paragraph at lines 194--1
 
  []
 
@@ -1637,7 +1637,7 @@ Here is how much of TeX's memory you used:
  1146 hyphenation exceptions out of 8191
  121i,11n,124p,914b,988s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\niels\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (34 pages, 4412030 bytes).
+Output written on main.pdf (34 pages, 4412445 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  86 named destinations out of 1000 (max. 500000)

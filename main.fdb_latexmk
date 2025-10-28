@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759614811.03016 "c:/Users/niels/Documents/GitHub/Generelle-Regler/main.tex" "main.pdf" "main" 1759614816.00607 0
+["pdflatex"] 1761681488.98222 "c:/Users/niels/Documents/GitHub/Generelle-Regler/main.tex" "main.pdf" "main" 1761681492.07792 0
   "../Evne-Ordbog/setup/Alfabeter/Elvisk alfabet.pdf" 1754339026 123684 4da46b3e88f8a8b74d721259993a3376 ""
   "../Evne-Ordbog/setup/hyphenations.tex" 1754339026 187 25dd9d5834155c431eb54cd73045ea9a ""
   "../Evne-Ordbog/setup/macros.tex" 1754339026 3879 07a835151c43e390c8d73670b3a1cd8c ""
@@ -263,14 +263,14 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Generelle-Regler/main.tex" 1754871272 1749 f8562b65c03c272e1956c128eb6e3502 ""
-  "main.aux" 1759614815 6415 429870947a451f6b3fc0de4bbef3d6d0 "pdflatex"
-  "main.out" 1759614815 5531 7189732ec43fde96c6225861bedad28c "pdflatex"
+  "main.aux" 1761681491 6415 429870947a451f6b3fc0de4bbef3d6d0 "pdflatex"
+  "main.out" 1761681491 5531 7189732ec43fde96c6225861bedad28c "pdflatex"
   "main.tex" 1754871272 1749 f8562b65c03c272e1956c128eb6e3502 ""
-  "main.toc" 1759614815 2658 6a3e835a3cb0bc8bc8cdd8e750efb60d "pdflatex"
+  "main.toc" 1761681491 2658 6a3e835a3cb0bc8bc8cdd8e750efb60d "pdflatex"
   "mainstuff/Foreningen.tex" 1757948263 3367 7e152cab45e7f65374ab91bf4ea3f38f ""
   "mainstuff/Profession.tex" 1757948263 12289 36db54206e635401ca3fc6b5e118ddf9 ""
   "mainstuff/Race.tex" 1758056076 15706 31c978fe508d9b169bd81902fb04f808 ""
-  "mainstuff/Spillet.tex" 1758055718 21613 02e4e8e63c02b1d26021f8b33585919a ""
+  "mainstuff/Spillet.tex" 1761681490 21679 eae6e9757c56248604a945f0c98d8133 ""
   "mainstuff/efterskrift.tex" 1757948263 850 6e94dd6ffeffa635e02c526a6d866d5d ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339123 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
