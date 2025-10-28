@@ -14,7 +14,7 @@ Alkymist:
 Naturbryg og Nervegift hver time i stedt for hvert andet
 Drømmeløshvile ændret fra 10 min til 5min
 Stenhud blodbær i stedet for blod
-Urteudvalg ændret til urte ekspert se besked over
+Urteudvalg ændret til urte ekspert
 Splittet sti er nu slået sammen.
 Jernhud blodbær i stedt for blod
 Fjernet Mirakel Mix
