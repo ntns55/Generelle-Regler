@@ -19,6 +19,7 @@ Splittet sti er nu slået sammen.
 Jernhud blodbær i stedt for blod
 Fjernet Mirakel Mix
 Fjernet Mana Mikstur
+Orleks styrke giver +20 NK.
 
 Barde:
 Barden er blevet genskabt og har fået en make-over. 
