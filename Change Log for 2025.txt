@@ -4,11 +4,15 @@ Begrænsning på hvor mange midlertidige LP man kan få.
 Alle kan nu bruge alle våben (med undtagelse af troldmanden), og alle typer rustning. Maks rustning er nu bestemt af din profession.
 Fjernet at man kan blive påvirket af kun en positiv magi og drik. Man kan nu blive påvirket af så mange effekter man vil, men ikke den samme effekt flere gange.
 Fjernet styrke for at låse låse op.
-Tilføjet 3 nye professsioner (Magus, Politiker, Tempelkriger) og 1 gammel profession (Barde)
+Tilføjet 3 nye professsioner (Magus, Strateg, Tempelkriger) og 1 gammel profession (Barde)
 Skovfogeden er fjernet.
+Shamanen er fjernet.
 Givet Mennesker, Gobliner, og halvlange 1 ekstra start LP. 
-Minearbejder og Urtesamler gør nu at man skal flytte færrer sække.
 Hvis man har 10 NK får man automatisk Bær Person.
+Tilføjet evnen Samler til generelle regler
+Tilføjet evnen Universets Ydre til generelle regler
+Fjernet evnen 6. Sans Niv. 2 fra generelle regler
+Fjernet Læse Skrive fra generelle regler under antagelsen at dem der vil spille på at de ikke kan læse og skrive stadig har denne mulighed.
 
 Alkymist:
 Naturbryg og Nervegift hver time i stedt for hvert andet
@@ -20,6 +24,7 @@ Jernhud blodbær i stedt for blod
 Fjernet Mirakel Mix
 Fjernet Mana Mikstur
 Orleks styrke giver +20 NK.
+Fjernet paralyse drik.
 
 Barde:
 Barden er blevet genskabt og har fået en make-over. 
@@ -34,6 +39,15 @@ Indgyd Løstløgn tilføjet.
 Druide:
 
 Handelsmand:
+Stor importør Fjernet
+For at balancere ressourcer og købskraft med planlægning er der nu en markedspris og en ekspress pris. Ekspress priser bruger ikke handelspoint men er ligmed 2*(m+h) hvor m er markedspris i Fjend og h er handelspoint.
+Markedsanalytiker lavet om til at give en 50% reduktion for det relevante niveau.
+Armeret lås ændret til at påvirke 1 af dine egne punge med 1 niveau 3 lås.
+Manasten flyttet til niveau 2 fra Sort Marked.
+Papir fjernet.
+Niveau 1 lås pris ændret
+Niveau 2 lås pris ændret
+Sjælestøv pris ændret.
 
 Helbreder:
 I niveau 4 er de to stier lagt sammen til en samlet sti.
@@ -42,12 +56,17 @@ Genoptræning fjernet.
 Guided helbredelse har fået flere restriktioner.
 
 Kriger:
+Fjernet Tempelkriger evnen.
+Fjernet Reparer Rustning Niv 1
+Fjernet Torturens vidunder
+Kraftslag flyttet til Niveau 3 og gjort at det kun kan bruges med 2-hånds våben.
+Bersærkergreb tilføjet
 
 Magus:
 Denne profession blev skabt som en mellemgrund mellem Kriger og Troldmand. Vi har fået meget feedback på at Troldmanden er meget kompleks og kunne godt bruge en mellemgrund. Vi har derfor lavet Magussen, som en kompetent magikaster som krigere kan multi-classe til.
 Har man fået lov til at multiclasse fra Kriger til Troldmand vil man i stedet være godkendt til multiclassing fra Kriger til Magus.
 
-Politikeren:
+Strateg:
 Vi har i A'kastin altid gået meget op i Faktions spil. Det vil sige at folk kan komme ud og forvente at være en del af en gruppe. Det har dog altid været Shamanen som har været den primære profession som har fået bonuser fra at være blandt flere folk. Dette vil vi gerne lave om på.
 Politikeren er designet til at være "Den tredje Multiclass profession". Intentionen er at denne profession styrker dem omkring sig, og kan interagere med verden på en nemmere måde, samtidig med at den sluger XP til dem der har det i overskud. 
 Professionen generelt modtager gratis Brug af Pistol (uden special ansøgning) som det eneste offensive, men promovere i stedet rollespil og snak med arrangørerne. 
@@ -75,6 +94,7 @@ Gudens Lovpris Fjernet.
 
 	Ishtar:
 	Hvid magi ændret til at give effekter som er lagt på smykker. Disse effekter kan skiftes fra spilgang til spilgang, hvilket giver meget versitilitet til gengæld er kilden blevet meget mindre, samt lang bøn for at kaste disse magier.
+	Fjernet paralyse sti for at give guddommelig ærefrygt.
 	Fjernet at Ishtar præsten mister Mana når de prædiker for andre ilshere.
 
 	Kelllwan:
@@ -103,6 +123,7 @@ Gudens Lovpris Fjernet.
 	Dæmonernes Redskab: Tilføjet Bundet Sjæl og Bundet Dæmon i niveau 1 og 2. 
 
 Shaman:
+Fjernet. Shamaner må overføre deres XP til kriger eller kontakte en arrangør. 
 
 Smed:
 Fjernet Brug af Tårnskjold. Dette er nu noget alle kan bruge fra starten.
@@ -115,7 +136,7 @@ Torturens vidunder er fjernet.
 Metalets Kald tilføjet.
 Låse Mekaniker fjernet.
 Titan Smed tilføjet.
-Pris for Sulfur stemmer nu overens med Alkymistens pris.
+Pris for krudt stemmer nu overens med Alkymistens pris.
 Runesmedning kræver nu Mitril for at omsmede runer.
 Krigshærens rustning ændret til at interagere med krigerens rustning.
 Dragens rustning er fjernet. Har man dragens rustning vil man få de brugte runer tilbage.
@@ -125,6 +146,8 @@ Denne profession er skabt på baggrund af Krigspræsten som ikke fungerede optim
 Spiller man skovfoged, eller har man adgang til kriger evnen Tempelkriger, kan man flytte alt sin XP over i professionen: Tempelkriger.
 
 Troldmand:
+Fjernet Arkanist.
+Gjort at alle kan bruge dedikeret mana, men at Dæmonologen stadig er bedst til det. Dedikeret mana er en spændende spil mekanik som vi føler var en skam at lukke inde ved Dæmonologen.
 
 Tyv:
 Der er blevet sat fokus på at skabe en ny unik sti i tyven. Dette er Tortur.
