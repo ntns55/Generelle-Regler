@@ -1,5 +1,5 @@
 Generelle Ændringer:
-
+Prop pistoler skal nu også gennem våbentjek.
 Begrænsning på hvor mange midlertidige LP man kan få.
 Alle kan nu bruge alle våben (med undtagelse af troldmanden), og alle typer rustning. Maks rustning er nu bestemt af din profession.
 Fjernet at man kan blive påvirket af kun en positiv magi og drik. Man kan nu blive påvirket af så mange effekter man vil, men ikke den samme effekt flere gange.
