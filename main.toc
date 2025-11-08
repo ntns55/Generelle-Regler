@@ -36,7 +36,7 @@
 \contentsline {section}{Grønhuder}{24}{section*.35}%
 \contentsline {chapter}{\numberline {4}Professioner}{28}{chapter.4}%
 \contentsline {section}{Generelt}{28}{section*.37}%
-\contentsline {section}{Evner}{31}{section*.41}%
+\contentsline {section}{Evner}{32}{section*.41}%
 \contentsline {section}{Multiclassing}{32}{section*.42}%
 \contentsline {subsection}{Begrænsninger på professioner ved multiclassing}{32}{subsection*.43}%
 \contentsline {chapter}{\numberline {5}Efterskrift}{33}{chapter.5}%

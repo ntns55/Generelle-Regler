@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  8 NOV 2025 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.7.23)  8 NOV 2025 15:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1603,13 +1603,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 [29]
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
 
  []
 
-
-
-[31]) (mainstuff/efterskrift.tex
+) (mainstuff/efterskrift.tex
 
 [32]
 Kapitel 5.
@@ -1641,7 +1641,7 @@ Here is how much of TeX's memory you used:
  1146 hyphenation exceptions out of 8191
  121i,11n,124p,914b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\niels\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/niels/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (34 pages, 4410152 bytes).
+Output written on main.pdf (34 pages, 4410484 bytes).
 PDF statistics:
  601 PDF objects out of 1000 (max. 8388607)
  84 named destinations out of 1000 (max. 500000)
