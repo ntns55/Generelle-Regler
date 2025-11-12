@@ -37,6 +37,28 @@ Indgyd Had tilføjet.
 Indgyd Løstløgn tilføjet.
 
 Druide:
+Druiden er den profession som har set den største omvæltning.
+Livs/Chaos druide er slået sammen til 1 profession.
+Druidens formål sat til at være: "At stoppe elementer fra andre sfærer fra at have indflydelse over naturen".
+Druiden har fået kombinere deres magier.
+Druiden skal nu vælge en primær sti inden for magier som de skal følge.
+Druiden må skifte hvilke magier de har valgt uden for deres primær stier fra spilgang til spilgang.
+Ekstra LP Niv 1 Fjernet
+Ekstra NK Niv 1 flyttet til Niv 2.
+Ekstra Mana Niv. 1 Fjernet.
+Ekstra NK Niv. 2 Flyttet til Niv 3. 
+Læse/Skrive Elvisk flyttet til Niv. 1
+Moders Kald gjort til flere gang per scenarie, og gjort til niv. 1 evne.
+Naturens Essens Fjernet.
+Urtekundskab fjernet.
+Ekstra LP Niv. 2 Fjernet.
+Esselaias Velsignelse fjernet
+Naturens velsignelse fjernet.
+Naturlig Harmoni fjernet
+Dyrenes Skikkelse Niv. 1 til 4 tilføjet.
+Skovens Balance Niv. 1 til 2 tilføjet.
+Læse/Skrive Magisk Tilføjet.
+Jordens Vogter Tilføjet
 
 Handelsmand:
 Stor importør Fjernet
