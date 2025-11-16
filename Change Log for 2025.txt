@@ -171,7 +171,9 @@ Troldmand:
 Fjernet Arkanist.
 Gjort at alle kan bruge dedikeret mana, men at Dæmonologen stadig er bedst til det. Dedikeret mana er en spændende spil mekanik som vi føler var en skam at lukke inde ved Dæmonologen.
 Sat Troldmand Magi Niveau 2 ned i pris.
-
+Tilføjet Lav Skriftrulle
+Fjernet Magisk Fælde
+Tilføjet Vævet Magi
 
 Tyv:
 Der er blevet sat fokus på at skabe en ny unik sti i tyven. Dette er Tortur.
