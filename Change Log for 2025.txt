@@ -13,6 +13,8 @@ Tilføjet evnen Samler til generelle regler
 Tilføjet evnen Universets Ydre til generelle regler
 Fjernet evnen 6. Sans Niv. 2 fra generelle regler
 Fjernet Læse Skrive fra generelle regler under antagelsen at dem der vil spille på at de ikke kan læse og skrive stadig har denne mulighed.
+Fjernet Lav Artefakter - Ressourcer brugt på dette vil ikke blive givet tilbage.
+Tilføjet 2 nye rune kategorier - Runehjelm og Runering.
 
 Alkymist:
 Naturbryg og Nervegift hver time i stedt for hvert andet
