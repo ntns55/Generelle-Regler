@@ -174,6 +174,7 @@ Sat Troldmand Magi Niveau 2 ned i pris.
 Tilføjet Lav Skriftrulle
 Fjernet Magisk Fælde
 Tilføjet Vævet Magi
+Alle Typer Troldmand har fået nye versioner af magier.
 
 Tyv:
 Der er blevet sat fokus på at skabe en ny unik sti i tyven. Dette er Tortur.
